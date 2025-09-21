@@ -1,7 +1,7 @@
 # LostLK - Lost & Found Hub for Sri Lanka 🇱🇰
 
 <div align="center">
-  <img src="app/src/main/res/mipmap-hdpi/ic_launcher.png" alt="LostLK Logo" width="120" height="120">
+  <img src="[app/src/main/res/mipmap-hdpi/ic_launcher.png](https://github.com/hiranhs/LostLK-Mobile-Application/blob/1681152a355e93b08662c5ca9d514feedd6ee65e/LostLKKK.jpg)" alt="LostLK Logo" width="120" height="120">
   
   <h3>Find Your Lost Items Across Sri Lanka</h3>
   
@@ -208,3 +208,4 @@ If you encounter any issues or have questions:
   <p>Made with ❤️ for Sri Lanka</p>
   <p>🇱🇰 LostLK - Connecting People, Finding Items</p>
 </div>
+
